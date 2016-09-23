@@ -49,7 +49,11 @@ event.on('update', function() {
 
             var semJson = {
               sub_name: $(this).find('td').eq(0).text().trim(),
-              sub_code: $(this).find('td').eq(1).text().trim()
+              sub_code: $(this).find('td').eq(1).text().trim(),
+              ia_marks: $(this).find('td').eq(2).text().trim(),
+              ext_marks: $(this).find('td').eq(3).text().trim(),              
+              total_marks: $(this).find('td').eq(4).text().trim(),
+              results: $(this).find('td').eq(5).text().trim()
             }
 
             semData.push(semJson);
