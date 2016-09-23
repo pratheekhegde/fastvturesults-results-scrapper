@@ -1,0 +1,322 @@
+[
+    {
+        "sem": "8",
+        "attempt": "1",
+        "total_marks": "553",
+        "results": "FIRST CLASS WITH DISTINCTION",
+        "percentage": "73.73%",
+        "marks": [
+            {
+                "sub_name": "Software Architectures",
+                "sub_code": "10IS81"
+            },
+            {
+                "sub_name": "System Modeling and Simulation",
+                "sub_code": "10CS82"
+            },
+            {
+                "sub_name": "Software Testing",
+                "sub_code": "10CS842"
+            },
+            {
+                "sub_name": "Information and Network Security",
+                "sub_code": "10CS835"
+            },
+            {
+                "sub_name": "Project Work",
+                "sub_code": "10CS85"
+            },
+            {
+                "sub_name": "Seminar",
+                "sub_code": "10CS86"
+            }
+        ]
+    },
+    {
+        "sem": "7",
+        "attempt": "1",
+        "total_marks": "542",
+        "results": "FIRST CLASS",
+        "percentage": "60.22%",
+        "marks": [
+            {
+                "sub_name": "Object-Oriented Modeling & Design",
+                "sub_code": "10CS71"
+            },
+            {
+                "sub_name": "Embedded Computing Systems",
+                "sub_code": "10CS72"
+            },
+            {
+                "sub_name": "Java & J2EE",
+                "sub_code": "10CS753"
+            },
+            {
+                "sub_name": "Programming the Web",
+                "sub_code": "10CS73"
+            },
+            {
+                "sub_name": "Advanced Computer Architectures",
+                "sub_code": "10CS74"
+            },
+            {
+                "sub_name": "Storage Area Networks",
+                "sub_code": "10CS765"
+            },
+            {
+                "sub_name": "Networks Lab.",
+                "sub_code": "10CSL77"
+            },
+            {
+                "sub_name": "Web Programming Lab.",
+                "sub_code": "10CSL78"
+            }
+        ]
+    },
+    {
+        "sem": "6",
+        "attempt": "1",
+        "total_marks": "583",
+        "results": "FAIL",
+        "percentage": "64.78%",
+        "marks": [
+            {
+                "sub_name": "Operations Research",
+                "sub_code": "10CS661"
+            },
+            {
+                "sub_name": "Management & Entrepreneurship",
+                "sub_code": "10AL61"
+            },
+            {
+                "sub_name": "Unix System Programming",
+                "sub_code": "10CS62"
+            },
+            {
+                "sub_name": "Compiler Design",
+                "sub_code": "10CS63"
+            },
+            {
+                "sub_name": "Computer Networks - II",
+                "sub_code": "10CS64"
+            },
+            {
+                "sub_name": "Computer Graphics & Visualization",
+                "sub_code": "10CS65"
+            },
+            {
+                "sub_name": "Computer Graphics & Visualization Lab.",
+                "sub_code": "10CSL67"
+            },
+            {
+                "sub_name": "Unix System Programming & Compiler Dsgn.Lab.",
+                "sub_code": "10CSL68"
+            }
+        ]
+    },
+    {
+        "sem": "5",
+        "attempt": "1",
+        "total_marks": "541",
+        "results": "FAIL",
+        "percentage": "60.11%",
+        "marks": [
+            {
+                "sub_name": "Software Engineering",
+                "sub_code": "10IS51"
+            },
+            {
+                "sub_name": "Systems Software",
+                "sub_code": "10CS52"
+            },
+            {
+                "sub_name": "Operating Systems",
+                "sub_code": "10CS53"
+            },
+            {
+                "sub_name": "Database Management Systems",
+                "sub_code": "10CS54"
+            },
+            {
+                "sub_name": "Computer Networks - I",
+                "sub_code": "10CS55"
+            },
+            {
+                "sub_name": "Formal Languages & Automata Theory",
+                "sub_code": "10CS56"
+            },
+            {
+                "sub_name": "Database Applications Laboratory",
+                "sub_code": "10CSL57"
+            },
+            {
+                "sub_name": "Systems Software & Operating Systems Lab.",
+                "sub_code": "10CSL58"
+            }
+        ]
+    },
+    {
+        "sem": "4",
+        "attempt": "1",
+        "total_marks": "518",
+        "results": "FAIL",
+        "percentage": "57.56%",
+        "marks": [
+            {
+                "sub_name": "Engineering Mathematics - IV",
+                "sub_code": "10MAT41"
+            },
+            {
+                "sub_name": "Graph Theory and Combinatorics",
+                "sub_code": "10CS42"
+            },
+            {
+                "sub_name": "Design and Analysis of Algorithms",
+                "sub_code": "10CS43"
+            },
+            {
+                "sub_name": "Unix and Shell Programming",
+                "sub_code": "10CS44"
+            },
+            {
+                "sub_name": "Microprocessors",
+                "sub_code": "10CS45"
+            },
+            {
+                "sub_name": "Computer Organization",
+                "sub_code": "10CS46"
+            },
+            {
+                "sub_name": "Design and Analysis of Algorithms Laboratory",
+                "sub_code": "10CSL47"
+            },
+            {
+                "sub_name": "Microprocessors Laboratory",
+                "sub_code": "10CSL48"
+            }
+        ]
+    },
+    {
+        "sem": "3",
+        "attempt": "1",
+        "total_marks": "594",
+        "results": "FIRST CLASS",
+        "percentage": "66%",
+        "marks": [
+            {
+                "sub_name": "Engineering Mathematics-III",
+                "sub_code": "10MAT31"
+            },
+            {
+                "sub_name": "Electronic Circuits",
+                "sub_code": "10CS32"
+            },
+            {
+                "sub_name": "Logic Design",
+                "sub_code": "10CS33"
+            },
+            {
+                "sub_name": "Discrete Mathematical Structures",
+                "sub_code": "10CS34"
+            },
+            {
+                "sub_name": "Data Structures with C",
+                "sub_code": "10CS35"
+            },
+            {
+                "sub_name": "Object Oriented Programming with C++",
+                "sub_code": "10CS36"
+            },
+            {
+                "sub_name": "Data Structures with C/C++ Lab",
+                "sub_code": "10CSL37"
+            },
+            {
+                "sub_name": "Electronic Circuits & Logic Design Lab",
+                "sub_code": "10CSL38"
+            }
+        ]
+    },
+    {
+        "sem": "2",
+        "attempt": "1",
+        "total_marks": "545",
+        "results": "FIRST CLASS WITH DISTINCTION",
+        "percentage": "70.32%",
+        "marks": [
+            {
+                "sub_name": "Engineering Mathematics - II",
+                "sub_code": "10MAT21"
+            },
+            {
+                "sub_name": "Engineering Chemistry",
+                "sub_code": "10CHE22"
+            },
+            {
+                "sub_name": "Computer Concepts & C Programming",
+                "sub_code": "10CCP23"
+            },
+            {
+                "sub_name": "Computer Aided Engineering Drawing",
+                "sub_code": "10CED24"
+            },
+            {
+                "sub_name": "Basic Electronics",
+                "sub_code": "10ELN25"
+            },
+            {
+                "sub_name": "Computer Programming Lab",
+                "sub_code": "10CPL26"
+            },
+            {
+                "sub_name": "Engineering Chemistry Lab",
+                "sub_code": "10CHEL27"
+            },
+            {
+                "sub_name": "Environmental Studies",
+                "sub_code": "10CIV28"
+            }
+        ]
+    },
+    {
+        "sem": "1",
+        "attempt": "1",
+        "total_marks": "473",
+        "results": "FIRST CLASS",
+        "percentage": "61.03%",
+        "marks": [
+            {
+                "sub_name": "Engineering Mathematics - I",
+                "sub_code": "10MAT11"
+            },
+            {
+                "sub_name": "Engineering Physics",
+                "sub_code": "10PHY12"
+            },
+            {
+                "sub_name": "Elements of Civil Engg. & Engg. Mechanics",
+                "sub_code": "10CIV13"
+            },
+            {
+                "sub_name": "Elements of Mechanical Engineering",
+                "sub_code": "10EME14"
+            },
+            {
+                "sub_name": "Basic Electrical Engineering",
+                "sub_code": "10ELE15"
+            },
+            {
+                "sub_name": "Workshop Practice",
+                "sub_code": "10WSL16"
+            },
+            {
+                "sub_name": "Engineering Physics Lab",
+                "sub_code": "10PHYL17"
+            },
+            {
+                "sub_name": "Constitution of India & Professional Ethics",
+                "sub_code": "10CIP18"
+            }
+        ]
+    }
+]
