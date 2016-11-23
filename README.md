@@ -1,6 +1,13 @@
 # Fastvturesults Scrapper
 
-**The code is very dirty, it is not optimized!**
+**DISCLAIMER : The code is very dirty and heavily unoptimized!**
+
+### Quick Run
+`https://vtu-results-scrapper-api.herokuapp.com/results/:usn`. here `:usn` is your **USN**
+        
+Eg: https://vtu-results-scrapper-api.herokuapp.com/results/4mw12cs064
+
+The above link may die any time. 😬 Prayers to heroku 🙏🏻
 
 ### Steps
 
