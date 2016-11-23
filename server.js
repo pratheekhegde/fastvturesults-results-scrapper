@@ -8,7 +8,7 @@ var semesters = [];
 
 var app = express();
 
-app.get('/resuts/:usn', function(req, res) {
+app.get('/results/:usn', function(req, res) {
 
   //scrap results from fastvturesults.com
   //console.log(req.params.usn)
@@ -85,5 +85,5 @@ app.get('/resuts/:usn', function(req, res) {
 
 });
 
-app.listen(3000);
-console.log('Listening on port 3000...');
+app.listen(process.env.PORT || 3000);
+console.log('Listening on port ' + process.env.PORT + '...');
